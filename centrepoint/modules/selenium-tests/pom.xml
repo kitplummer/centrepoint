@@ -6,7 +6,7 @@
   <parent>
     <artifactId>modules</artifactId>
     <groupId>com.effectivemaven.centrepoint</groupId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.3</version>
   </parent>
   <artifactId>selenium-tests</artifactId>
   <name>Centrepoint Selenium Test Suite</name>
